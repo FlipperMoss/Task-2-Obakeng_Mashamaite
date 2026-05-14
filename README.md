@@ -45,7 +45,7 @@ Where:
 ## ▶️ How to Run
 
 ### 1. Clone the Repository
-```bash
+``bash
 git clone https://github.com/your-username/caesar-cipher-tool.git
 cd caesar-cipher-tool
 python main.py
